@@ -1,5 +1,5 @@
 # Hr-Analysis-SQL
-In this project human resource data has been analyzed that was collected from HR Department. The dataset was downloaded as a csv file and uploaded in SQL workbench using Command Line Interface. After collection, data was processed, cleaned, analyzed and visualized. 
+In this project Human resource data been analysed using SQL and stakehoulders' questions been answered considering basic business KPIs. Interactive dashboard been designed using Power BI to visualize the meaningful insights. This project is divided into four phases 1) Collect 2) Prepare 3) Analyse and 4) Visualize.
 
 # Meaningful Insights
 There are more male employees
