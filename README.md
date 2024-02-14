@@ -1,4 +1,4 @@
-# Hr-Analysis-SQL
+# Hr-Analysis-SQL (Power BI)
 In this project Human resource data been analysed using SQL and stakehoulders' questions been answered considering basic business KPIs. Interactive dashboard been designed using Power BI to visualize the meaningful insights. This project is divided into four phases 1) Collect 2) Prepare 3) Analyse and 4) Visualize.
 
 # Meaningful Insights
