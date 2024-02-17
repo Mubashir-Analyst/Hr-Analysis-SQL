@@ -23,4 +23,4 @@ In this project Human resource data been analysed using SQL and stakehoulders' q
 
 - A large number of employees come from the state of Ohio.
 
-The net change in employees has increased over the years.
+- The net change in employees has increased over the years.
