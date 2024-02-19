@@ -24,3 +24,9 @@ In this project Human resource data been analysed using SQL and stakehoulders' q
 - A large number of employees come from the state of Ohio.
 
 - The net change in employees has increased over the years.
+# Tangible Impact on Business:
+- Optimized resource allocation and reduced recruitment costs through insights into turnover rates and demographics.
+- Enhanced diversity initiatives by identifying trends in gender and ethnicity breakdowns.
+- Improved decision-making through data-driven insights into workforce dynamics and departmental distribution.
+- Increased employee engagement and satisfaction by addressing factors such as tenure and turnover rates.
+- Strategic planning made more precise, leading to better talent management and long-term competitiveness.
